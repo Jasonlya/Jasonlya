@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png?v=3" width="100%" alt="XX until" />
+  <img src="./banner.png?v=4" width="100%" alt="XX until" />
 </p>
 
 <h1 align="center">Hi, I'm XX until 👋</h1>
@@ -42,6 +42,17 @@
 </table>
 
 <br />
+
+<h3 align="center">📫 联系我</h3>
+
+<p align="center">
+  <a href="mailto:xxuntilu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-xxuntilu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jasonlya">
+    <img src="https://img.shields.io/badge/GitHub-Jasonlya-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always-Shipping%20Something-ff69b4?style=flat-square" />
