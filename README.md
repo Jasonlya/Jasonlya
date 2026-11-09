@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="58%" alt="XX until" />
+  <img src="./banner.png?v=2" width="58%" alt="XX until" />
 </p>
 
 <h1 align="center">Hi, I'm XX until 👋</h1>
