@@ -1,10 +1,18 @@
-# Hi, I'm XX until 👋
+<p align="center">
+  <img src="./banner.png" alt="XX until" width="720" />
+</p>
 
-![profile banner](./banner.png)
+```bash
+$ whoami
+XX until
+```
 
-- 🔭 QA / Test Development Engineer
-- 🌱 Focus: Test Automation & Tooling
-- 💬 Languages: Python · JavaScript · TypeScript · Shell
-- 🛠 Editor: Neovim · OS: macOS
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jasonlya&color=green)
+```txt
+Name:      XX until
+Age:       27
+Work:      Test Development Engineer (SDET)
+OS:        macOS
+Editor:    Neovim
+Languages: Python · JavaScript · TypeScript · Shell
+Skills:    QA / Test Development · Automation · Tooling
+```
